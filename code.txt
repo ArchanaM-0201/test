@@ -2,3 +2,4 @@ Welcome to new learning platform
 c sharp 
 java
 mongodb
+sql
